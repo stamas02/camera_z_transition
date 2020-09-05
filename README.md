@@ -82,9 +82,11 @@ using the equations above.
 
 #### Results
 Given two consecutive images from a camera:
+
 <img src="https://github.com/stamas02/camera_z_transition/blob/master/data/image_anim.gif" width="400"/>
 
 We first obtain the optical flow using opencv
+
 <img src="https://github.com/stamas02/camera_z_transition/blob/master/data/optical_flow.jpg" width="400"/>
 
 The estimated <img src="https://render.githubusercontent.com/render/math?math=\beta">
