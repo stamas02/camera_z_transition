@@ -19,6 +19,7 @@ tracking  etc.
 #### Install
 ```
 pip install cam-motion-field
+pip install camera_z_transition
 ```
 
 #### Usage
